@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "@tdengine/rest": "^3.0.2",
-    "fastify": "^4.28.1"
+    "fastify": "^5.7.4"
   }
 }
